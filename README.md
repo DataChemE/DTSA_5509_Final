@@ -4,6 +4,8 @@
 
 ## Project Overview
 
+The notebook <https://github.com/DataChemE/DTSA_5509_Final/blob/main/project_notebook.ipynb> contains the analysis for this project.
+
 This project leverages a Gradient Boosting Classifier to predict the presence of diabetes, utilizing a dataset based on health indicators and diabetes outcomes. Through comprehensive data preprocessing, feature selection, and model optimization phases, we have developed a predictive model that offers meaningful insights into an individual's risk of diabetes based on a variety of health-related factors.
 
 ## Dataset
